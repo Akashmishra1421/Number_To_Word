@@ -1,5 +1,4 @@
-# Conversion of numbers into their respective word representation using Python 
-# Number_To_Word
+# Conversion of numbers into their respective word representation using Python
 # Define lists for word representations
 ones = ["", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"]
 teens = ["", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen"]
